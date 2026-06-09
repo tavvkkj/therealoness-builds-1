@@ -1,0 +1,36 @@
+{
+  "slug": "cairo",
+  "outputDir": "public/game-assets/builds/cairo",
+  "files": {
+    "dataUrl": {
+      "hash": "d94acf5240c8",
+      "source": "mapas pa botar/cairo/Cairo.data.unityweb",
+      "target": "cairo.alt.data.unityweb"
+    },
+    "wasmCodeUrl": {
+      "hash": "b8e2951880bd",
+      "source": "mapas pa botar/cairo/Cairo.wasm.code.unityweb",
+      "target": "cairo.alt.wasm.code.unityweb"
+    },
+    "wasmFrameworkUrl": {
+      "hash": "ff97b4ebf12f",
+      "source": "mapas pa botar/cairo/Cairo.wasm.framework.unityweb",
+      "target": "cairo.alt.wasm.framework.unityweb"
+    },
+    "asmCodeUrl": {
+      "hash": "9cc18eda9c9a",
+      "source": "mapas pa botar/cairo/Cairo.asm.code.unityweb",
+      "target": "cairo.alt.asm.code.unityweb"
+    },
+    "asmMemoryUrl": {
+      "hash": "35d6770975ad",
+      "source": "mapas pa botar/cairo/Cairo.asm.memory.unityweb",
+      "target": "cairo.alt.asm.memory.unityweb"
+    },
+    "asmFrameworkUrl": {
+      "hash": "5de37c5fabf2",
+      "source": "mapas pa botar/cairo/Cairo.asm.framework.unityweb",
+      "target": "cairo.alt.asm.framework.unityweb"
+    }
+  }
+}
